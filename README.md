@@ -1,5 +1,7 @@
 # sql_examples
 
+[mysql](https://github.com/arfu2016/nlp/tree/master/nlp_models/mysql)
+
 flat files on disk
 
 durable storage, data structures for searching data
